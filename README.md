@@ -1,2 +1,2 @@
 # BuptOj AC代码记录
-(BOJ)[http://code.bupt.edu.cn]
+[BuptOJ](http://code.bupt.edu.cn)
